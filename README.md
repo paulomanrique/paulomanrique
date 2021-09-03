@@ -46,6 +46,7 @@
 <a target="blank" href="https://www.php.net/"><img src="https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php"></a>
 <a target="blank" href="https://sass-lang.com/"><img src="https://img.shields.io/badge/-Sass-black?style=flat-square&logo=sass"></a>
 <a target="blank" href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript"></a>
+<a target="blank" href="https://docs.microsoft.com/en-us/dotnet/visual-basic/"><img src="https://img.shields.io/badge/-Visual Basic .Net-black?style=flat-square&logo=dotnet"></a>
 <a target="blank" href="https://yaml.org/"><img src="https://img.shields.io/badge/-YAML-black?style=flat-square&logo=gnubash"></a>
 </div>
 <br/>
@@ -54,6 +55,7 @@
 # 🖧 Backend technologies
 <div style="text-align: center">
 <a target="blank" href="https://deno.land/"><img src="https://img.shields.io/badge/-Deno-black?style=flat-square&logo=Node.js"></a>
+<a target="blank" href="https://expressjs.com/"><img src="https://img.shields.io/badge/-Express-black?style=flat-square&logo=express"></a>
 <a target="blank" href="https://laravel.com/"><img src="https://img.shields.io/badge/-Laravel-black?style=flat-square&logo=laravel"></a>
 <a target="blank" href="https://vapor.laravel.com/"><img src="https://img.shields.io/badge/-Laravel Vapor (Serverless)-black?style=flat-square&logo=laravel"></a>
 <a target="blank" href="https://lumen.laravel.com/"><img src="https://img.shields.io/badge/-Lumen-black?style=flat-square&logo=lumen"></a>
