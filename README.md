@@ -5,8 +5,8 @@
 <br/>
 
 
-- 💻 I’m currently working on <a href="https://www.a2hosting.com" target="blank">A2 Hosting</a> and <a href="https://www.aspenlane.ca" target="blank">Aspen Lane</a>.
-- 📖 I’m currently learning **<a href="https://www.python.org/" target="blank">Python</a>**, **<a href="https://tailwindcss.com/" target="blank">Tailwind CSS</a>**
+- 💻 I’m currently working on <a href="https://www.a2hosting.com" target="blank">A2 Hosting</a>.
+- 📖 I’m currently learning **<a href="https://www.python.org/" target="blank">Python</a>**, **DevOps**
 <br/>
 <br/>
 
