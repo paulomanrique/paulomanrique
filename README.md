@@ -5,8 +5,8 @@
 <br/>
 
 
-- 💻 I’m currently working on <a href="https://www.a2hosting.com" target="blank">A2 Hosting</a>.
-- 📖 I’m currently learning **<a href="https://www.python.org/" target="blank">Python</a>**, **DevOps**
+- 💻 I’m currently working on <a href="https://www.yomali.com" target="blank">Yomali</a>.
+- 📖 I’m currently learning **<a href="https://www.react.dev/" target="blank">React</a>**
 <br/>
 <br/>
 
