@@ -1,160 +1,122 @@
-<p align="center"><img src="https://i.imgur.com/Ah2hz9Q.jpg"></p>
-<h1 align="center">Wazaaaap, I'm Paulo Manrique</>
-<h3 align="center">A software developer from Brazil</h3>
-<br/>
+# Hey, I'm Paulo 👋
+
+📍 **Brazil 🇧🇷 → Spain 🇪🇸** | 💼 **Software Developer @ [Yomali](https://www.yomali.com)** | ✨ **Vibe coding since 2013**
+
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![Rust](https://img.shields.io/badge/-Rust-black?style=flat-square&logo=rust)
+
+> Full-stack developer living in Spain, originally from Brazil. Building things at Yomali and vibe coding whatever seems cool or useful.
+
+## Projects
+
+- 🗺️ **[latency-map](https://latencymap.net/)** — Desktop app for measuring network latency and traceroute to cloud provider endpoints worldwide. Built with Electron, React, and TypeScript.
+- 👀 **[lurk-buddy](https://lurkbuddy.com/)** — Automatic stream lurking for Twitch, YouTube, and Kick. Never miss a live. Never lift a finger.
+- 🛡️ **[browser-anti-copy-hijack](https://github.com/paulomanrique/browser-anti-copy-hijack)** — Userscript that protects your clipboard from websites that hijack your copied text by injecting copyright notices on Ctrl+C.
+- 📦 **[ps4-pkg-extractor](https://github.com/paulomanrique/ps4-pkg-extractor)** — Simple command-line tool to extract PS4 PKG files. Written in Rust.
+- 🎨 **[ant-dracula-telegram-theme](https://github.com/paulomanrique/ant-dracula-telegram-theme)** — Telegram theme inspired by the Ant Dracula GTK theme by Eliver Lara.
+
+## GitHub Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/paulomanrique/paulomanrique/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/paulomanrique/paulomanrique/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/paulomanrique/paulomanrique/output/github-contribution-grid-snake-dark.svg">
+</picture>
+
+## What I'm doing
+
+- **Building at Yomali** — Full-stack development, infrastructure, and whatever else needs doing
+- **Vibe coding side projects** — If it's cool or solves a real problem, it's worth building
+- **Playing with Rust** — Still learning, already loving it
+
+## Tech
+
+<details>
+<summary>Full stack</summary>
 <br/>
 
+**Languages**
 
-- 💻 I’m currently working on <a href="https://www.yomali.com" target="blank">Yomali</a>.
-- 📖 I’m currently learning **<a href="https://www.react.dev/" target="blank">React</a>**
-<br/>
-<br/>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"></a>
+<a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript"></a>
+<a href="https://www.php.net/"><img src="https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3"></a>
+<a href="https://sass-lang.com/"><img src="https://img.shields.io/badge/-Sass-black?style=flat-square&logo=sass"></a>
+<a href="https://www.gnu.org/software/bash/"><img src="https://img.shields.io/badge/-Bash-black?style=flat-square&logo=gnubash"></a>
+<a href="https://www.rust-lang.org/"><img src="https://img.shields.io/badge/-Rust-black?style=flat-square&logo=rust"></a>
 
-# 📊 This week I spent my time on
+**Backend**
 
-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=paulomanrique&hide_title=true&hide_border=true&langs_count=5)
+<a href="https://nodejs.org"><img src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js"></a>
+<a href="https://expressjs.com/"><img src="https://img.shields.io/badge/-Express-black?style=flat-square&logo=express"></a>
+<a href="https://deno.land/"><img src="https://img.shields.io/badge/-Deno-black?style=flat-square&logo=deno"></a>
+<a href="https://laravel.com/"><img src="https://img.shields.io/badge/-Laravel-black?style=flat-square&logo=laravel"></a>
+<a href="https://vapor.laravel.com/"><img src="https://img.shields.io/badge/-Laravel Vapor-black?style=flat-square&logo=laravel"></a>
+<a href="https://lumen.laravel.com/"><img src="https://img.shields.io/badge/-Lumen-black?style=flat-square&logo=laravel"></a>
+<a href="https://mochajs.org/"><img src="https://img.shields.io/badge/-Mocha-black?style=flat-square&logo=mocha"></a>
+<a href="https://phpunit.de/"><img src="https://img.shields.io/badge/-PHPUnit-black?style=flat-square&logo=php"></a>
 
-<br/>
+**Frontend**
 
-# ✉️ Where to find me
-<br/>
-<div style="text-align: center">
-<a target="blank" href="https://github.com/paulomanrique"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"></a>
-<a target="blank" href="https://gitlab.com/paulomanrique"><img src="https://img.shields.io/badge/-GitLab-black?style=flat-square&logo=gitlab"></a>
-<a target="blank" href="mailto:me@paulo.dev"><img src="https://img.shields.io/badge/-Email-black?style=flat-square&logo=gmail"></a>
-<a target="blank" href="https://keybase.io/paulomanrique"><img src="https://img.shields.io/badge/-Keybase-black?style=flat-square&logo=keybase"><A>
-<a target="blank" href="https://www.linkedin.com/in/paulo-manrique-83366820/"><img src="https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=linkedin"></a>
-<a target="blank" href="http://www.metro.sp.gov.br/sua-viagem/linha-1-azul/estacao-carandiru.aspx"><img src="https://img.shields.io/badge/-Metro SP-black?style=flat-square&logo=saopaulometro"></a>
-<a target="blank" href="skype:paulo_manrique?chat"><img src="https://img.shields.io/badge/-Skype-black?style=flat-square&logo=skype"></a>
-<a target="blank" href="https://t.me/paulomanrique"><img src="https://img.shields.io/badge/-Telegram-black?style=flat-square&logo=telegram"></a>
-<a target="blank" href="https://www.twitch.tv/sirvh"><img src="https://img.shields.io/badge/-Twitch-black?style=flat-square&logo=Twitch"></a>
-<a target="blank" href="https://twitter.com/paulomanrique"><img src="https://img.shields.io/badge/-Twitter-black?style=flat-square&logo=twitter"></a>
-<a target="blank" href="https://wakatime.com/@paulomanrique"><img src="https://img.shields.io/badge/-WakaTime-black?style=flat-square&logo=wakatime"></a>
-<a target="blank" href="https://api.whatsapp.com/send?phone=5511995943242"><img src="https://img.shields.io/badge/-WhatsApp-black?style=flat-square&logo=WhatsApp"></a>
-<a target="blank" href="https://news.ycombinator.com/user?id=PauloManrique"><img src="https://img.shields.io/badge/-Hacker News-black?style=flat-square&logo=ycombinator"></a>
-<a target="blank" href="https://www.youtube.com/channel/UCscLNhiZlZ95Y6s98CR37lQ"><img src="https://img.shields.io/badge/-Youtube-black?style=flat-square&logo=youtube"></a>
-</div>
-<br/>
-<br/>
+<a href="https://reactjs.org/"><img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react"></a>
+<a href="https://vuejs.org/"><img src="https://img.shields.io/badge/-Vue.js-black?style=flat-square&logo=vuedotjs"></a>
+<a href="https://svelte.dev/"><img src="https://img.shields.io/badge/-Svelte-black?style=flat-square&logo=svelte"></a>
+<a href="https://www.cypress.io/"><img src="https://img.shields.io/badge/-Cypress-black?style=flat-square&logo=cypress"></a>
+<a href="https://jquery.com/"><img src="https://img.shields.io/badge/-jQuery-black?style=flat-square&logo=jquery"></a>
 
-# ߷ Languages
-<div style="text-align: center">
-<a target="blank" href="https://developer.salesforce.com/docs/atlas.en-us.noversion.mc-programmatic-content.meta/mc-programmatic-content/functions.htm"><img src="https://img.shields.io/badge/-AMP-black?style=flat-square&logo=amp"></a>
-<a target="blank" href="https://www.gnu.org/software/bash/"><img src="https://img.shields.io/badge/-Bash-black?style=flat-square&logo=gnubash"></a>
-<a target="blank" href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3"></a>
-<a target="blank" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"></a>
-<a target="blank" href="https://www.php.net/"><img src="https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php"></a>
-<a target="blank" href="https://sass-lang.com/"><img src="https://img.shields.io/badge/-Sass-black?style=flat-square&logo=sass"></a>
-<a target="blank" href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript"></a>
-<a target="blank" href="https://docs.microsoft.com/en-us/dotnet/visual-basic/"><img src="https://img.shields.io/badge/-Visual Basic .Net-black?style=flat-square&logo=dotnet"></a>
-<a target="blank" href="https://yaml.org/"><img src="https://img.shields.io/badge/-YAML-black?style=flat-square&logo=gnubash"></a>
-</div>
-<br/>
-<br/>
+**Databases & Messaging**
 
-# 🖧 Backend technologies
-<div style="text-align: center">
-<a target="blank" href="https://deno.land/"><img src="https://img.shields.io/badge/-Deno-black?style=flat-square&logo=Node.js"></a>
-<a target="blank" href="https://expressjs.com/"><img src="https://img.shields.io/badge/-Express-black?style=flat-square&logo=express"></a>
-<a target="blank" href="https://laravel.com/"><img src="https://img.shields.io/badge/-Laravel-black?style=flat-square&logo=laravel"></a>
-<a target="blank" href="https://vapor.laravel.com/"><img src="https://img.shields.io/badge/-Laravel Vapor (Serverless)-black?style=flat-square&logo=laravel"></a>
-<a target="blank" href="https://lumen.laravel.com/"><img src="https://img.shields.io/badge/-Lumen-black?style=flat-square&logo=lumen"></a>
-<a target="blank" href="https://mochajs.org/"><img src="https://img.shields.io/badge/-Mocha-black?style=flat-square&logo=mocha"></a>
-<a target="blank" href="https://nodejs.org"><img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"></a>
-<a target="blank" href="https://phpunit.de/"><img src="https://img.shields.io/badge/-PHP Unit-black?style=flat-square&logo=php"></a>
-</div>
-<br/>
-<br/>
+<a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql"></a>
+<a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"></a>
+<a href="https://mariadb.org/"><img src="https://img.shields.io/badge/-MariaDB-black?style=flat-square&logo=mariadb"></a>
+<a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb"></a>
+<a href="https://redis.io/"><img src="https://img.shields.io/badge/-Redis-black?style=flat-square&logo=redis"></a>
+<a href="https://www.elastic.co/pt/elasticsearch/"><img src="https://img.shields.io/badge/-Elasticsearch-black?style=flat-square&logo=elasticsearch"></a>
+<a href="https://www.rabbitmq.com/"><img src="https://img.shields.io/badge/-RabbitMQ-black?style=flat-square&logo=rabbitmq"></a>
+<a href="https://www.sqlite.org/"><img src="https://img.shields.io/badge/-SQLite-black?style=flat-square&logo=sqlite"></a>
+<a href="https://www.microsoft.com/sql-server/"><img src="https://img.shields.io/badge/-SQL Server-black?style=flat-square&logo=microsoftsqlserver"></a>
 
-# 💻 Frontend technologies
-<div style="text-align: center">
-<a target="blank" href="https://www.cypress.io/"><img src="https://img.shields.io/badge/-Cypress-black?style=flat-square&logo=cypress"></a>
-<a target="blank" href="https://jquery.com/"><img src="https://img.shields.io/badge/-jQuery-black?style=flat-square&logo=jquery"></a>
-<a target="blank" href="https://reactjs.org/"><img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react"></a>
-<a target="blank" href="https://svelte.dev/"><img src="https://img.shields.io/badge/-Svelte-black?style=flat-square&logo=svelte"></a>
-<a target="blank" href="https://vuejs.org/"><img src="https://img.shields.io/badge/-Vue.Js-black?style=flat-square&logo=vuedotjs"></a>
-</div>
-<br/>
-<br/>
+**DevOps & Infrastructure**
 
-# 🗄️ Databases
-<div style="text-align: center">
-<a target="blank" href="https://www.elastic.co/pt/elasticsearch/"><img src="https://img.shields.io/badge/-Elasticsearch-black?style=flat-square&logo=elasticsearch"></a>
-<a target="blank" href="https://mariadb.org/"><img src="https://img.shields.io/badge/-MariaDB-black?style=flat-square&logo=mariadbfoundation"></a>
-<a target="blank" href="https://www.mysql.com/"><img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"></a>
-<a target="blank" href="https://www.microsoft.com/sql-server/"><img src="https://img.shields.io/badge/-Microsoft SQL Server-black?style=flat-square&logo=microsoftsqlserver"></a>
-<a target="blank" href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb"></a>
-<a target="blank" href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql"></a>
-<a target="blank" href="https://www.rabbitmq.com/"><img src="https://img.shields.io/badge/-RabbitMQ-black?style=flat-square&logo=rabbitmq"></a>
-<a target="blank" href="https://redis.io/"><img src="https://img.shields.io/badge/-Redis-black?style=flat-square&logo=redis"></a>
-<a target="blank" href="https://www.sqlite.org/"><img src="https://img.shields.io/badge/-SQLite-black?style=flat-square&logo=sqlite"></a>
-</div>
-<br/>
+<a href="https://www.docker.com/"><img src="https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker"></a>
+<a href="https://kubernetes.io/"><img src="https://img.shields.io/badge/-Kubernetes-black?style=flat-square&logo=kubernetes"></a>
+<a href="https://podman.io/"><img src="https://img.shields.io/badge/-Podman-black?style=flat-square&logo=podman"></a>
+<a href="https://github.com/features/actions"><img src="https://img.shields.io/badge/-GitHub Actions-black?style=flat-square&logo=github-actions"></a>
+<a href="https://www.nginx.com/"><img src="https://img.shields.io/badge/-NGINX-black?style=flat-square&logo=nginx"></a>
+<a href="https://httpd.apache.org/"><img src="https://img.shields.io/badge/-Apache-black?style=flat-square&logo=apache"></a>
+<a href="https://www.cloudflare.com/"><img src="https://img.shields.io/badge/-Cloudflare-black?style=flat-square&logo=Cloudflare"></a>
+<a href="https://www.alpinelinux.org/"><img src="https://img.shields.io/badge/-Alpine Linux-black?style=flat-square&logo=alpinelinux"></a>
+<a href="https://almalinux.org/"><img src="https://img.shields.io/badge/-AlmaLinux-black?style=flat-square&logo=almalinux"></a>
+
+</details>
+
+## Find me
+
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/paulomanrique)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0nMjU2JyBoZWlnaHQ9JzI1NicgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJyBwcmVzZXJ2ZUFzcGVjdFJhdGlvPSd4TWlkWU1pZCcgdmlld0JveD0nMCAwIDI1NiAyNTYnPjxwYXRoIGQ9J00yMTguMTIzIDIxOC4xMjdoLTM3LjkzMXYtNTkuNDAzYzAtMTQuMTY1LS4yNTMtMzIuNC0xOS43MjgtMzIuNC0xOS43NTYgMC0yMi43NzkgMTUuNDM0LTIyLjc3OSAzMS4zNjl2NjAuNDNoLTM3LjkzVjk1Ljk2N2gzNi40MTN2MTYuNjk0aC41MWEzOS45MDcgMzkuOTA3IDAgMCAxIDM1LjkyOC0xOS43MzNjMzguNDQ1IDAgNDUuNTMzIDI1LjI4OCA0NS41MzMgNTguMTg2bC0uMDE2IDY3LjAxM1pNNTYuOTU1IDc5LjI3Yy0xMi4xNTcuMDAyLTIyLjAxNC05Ljg1Mi0yMi4wMTYtMjIuMDA5LS4wMDItMTIuMTU3IDkuODUxLTIyLjAxNCAyMi4wMDgtMjIuMDE2IDEyLjE1Ny0uMDAzIDIyLjAxNCA5Ljg1MSAyMi4wMTYgMjIuMDA4QTIyLjAxMyAyMi4wMTMgMCAwIDEgNTYuOTU1IDc5LjI3bTE4Ljk2NiAxMzguODU4SDM3Ljk1Vjk1Ljk2N2gzNy45N3YxMjIuMTZaTTIzNy4wMzMuMDE4SDE4Ljg5QzguNTgtLjA5OC4xMjUgOC4xNjEtLjAwMSAxOC40NzF2MjE5LjA1M2MuMTIyIDEwLjMxNSA4LjU3NiAxOC41ODIgMTguODkgMTguNDc0aDIxOC4xNDRjMTAuMzM2LjEyOCAxOC44MjMtOC4xMzkgMTguOTY2LTE4LjQ3NFYxOC40NTRjLS4xNDctMTAuMzMtOC42MzUtMTguNTg4LTE4Ljk2Ni0xOC40NTMnIGZpbGw9JyNmZmYnLz48L3N2Zz4K)](https://www.linkedin.com/in/paulo-manrique-83366820/)
+[![X](https://img.shields.io/badge/-X-black?style=flat-square&logo=X)](https://twitter.com/paulomanrique)
+[![Telegram](https://img.shields.io/badge/-Telegram-black?style=flat-square&logo=telegram)](https://t.me/paulomanrique)
+[![Twitch](https://img.shields.io/badge/-Twitch-black?style=flat-square&logo=Twitch)](https://www.twitch.tv/sirvh)
+[![Keybase](https://img.shields.io/badge/-Keybase-black?style=flat-square&logo=keybase)](https://keybase.io/paulomanrique)
+[![Hacker News](https://img.shields.io/badge/-Hacker%20News-black?style=flat-square&logo=ycombinator)](https://news.ycombinator.com/user?id=PauloManrique)
+[![YouTube](https://img.shields.io/badge/-YouTube-black?style=flat-square&logo=YouTube)](https://www.youtube.com/channel/UCscLNhiZlZ95Y6s98CR37lQ)
+[![Email](https://img.shields.io/badge/-me@paulo.dev-black?style=flat-square&logo=gmail)](mailto:me@paulo.dev)
+
+---
+
+<details>
+<summary>Random facts</summary>
 <br/>
 
+- Fueled by ☕ and [Glovo](https://glovoapp.com) deliveries
+- Daily driver: [Arch Linux](https://archlinux.org) + [Zed](https://zed.dev) + [Ghostty](https://ghostty.org)
+- Spends too much time in [Twitch](https://twitch.tv) streams (hence lurk-buddy)
+- Built a PS4 PKG extractor for reasons that made sense at the time
+- "Vibe coding" was my whole workflow before it had a name
 
-# 🧰 Tooling
-<div style="text-align: center">
-<a target="blank" href="https://babeljs.io/"><img src="https://img.shields.io/badge/-Babel-black?style=flat-square&logo=babel"></a>
-<a target="blank" href="https://bower.io/"><img src="https://img.shields.io/badge/-Bower-black?style=flat-square&logo=bower"></a>
-<a target="blank" href="https://curl.se/"><img src="https://img.shields.io/badge/-Curl-black?style=flat-square&logo=curl"></a>
-<a target="blank" href="https://marketingplatform.google.com/about/analytics/"><img src="https://img.shields.io/badge/-Google Analytics-black?style=flat-square&logo=googleanalytics"></a>
-<a target="blank" href="https://marketingplatform.google.com/about/tag-manager/"><img src="https://img.shields.io/badge/-Google Tag Manager-black?style=flat-square&logo=googletagmanager"></a>
-<a target="blank" href="https://www.npmjs.com/"><img src="https://img.shields.io/badge/-NPM-black?style=flat-square&logo=npm"></a>
-<a target="blank" href="https://yarnpkg.com/"><img src="https://img.shields.io/badge/-Yarn-black?style=flat-square&logo=yarn"></a>
-</div>
-<br/>
-<br/>
-
-# 🛠️ DevOps
-<div style="text-align: center">
-<a target="blank" href="https://almalinux.org/"><img src="https://img.shields.io/badge/-AlmaLinux-black?style=flat-square&logo=centos"></a>
-<a target="blank" href="https://www.alpinelinux.org/"><img src="https://img.shields.io/badge/-Alpine Linux-black?style=flat-square&logo=alpinelinux"></a>
-<a target="blank" href="https://httpd.apache.org/"><img src="https://img.shields.io/badge/-Apache-black?style=flat-square&logo=apache"></a>
-<a target="blank" href="https://www.centos.org/"><img src="https://img.shields.io/badge/-CentOS-black?style=flat-square&logo=centos"></a>
-<a target="blank" href="https://www.cloudflare.com/"><img src="https://img.shields.io/badge/-Cloudflare-black?style=flat-square&logo=cloudflare"></a>
-<a target="blank" href="https://www.docker.com/"><img src="https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker"></a>
-<a target="blank" href="https://github.com/features/actions"><img src="https://img.shields.io/badge/-GitHub Actions-black?style=flat-square&logo=githubactions"></a>
-<a target="blank" href="https://kubernetes.io/"><img src="https://img.shields.io/badge/-Kubernetes-black?style=flat-square&logo=kubernetes"></a>
-<a target="blank" href="https://www.nginx.com/"><img src="https://img.shields.io/badge/-NGINX-black?style=flat-square&logo=nginx"></a>
-<a target="blank" href="https://podman.io/"><img src="https://img.shields.io/badge/-Podman-black?style=flat-square&logo=podman"></a>
-</div>
-<br/>
-<br/>
-
-# 🧑‍💻 Software I know how to customize
-<br/>
-<div style="text-align: center">
-<a target="blank" href="https://expressionengine.com/"><img src="https://img.shields.io/badge/-Expression Engine-black?style=flat-square&logo=php"></a>
-<a target="blank" href="https://kayako.com/"><img src="https://img.shields.io/badge/-Kayako-black?style=flat-square&logo=php"></a>
-<a target="blank" href="https://twill.io/"><img src="https://img.shields.io/badge/-Twill-black?style=flat-square&logo=laravel"></a>
-<a target="blank" href="https://www.whmcs.com/"><img src="https://img.shields.io/badge/-WHMCS-black?style=flat-square&logo=php"></a>
-</div>
-<br />
-<br />
-
-
-# 💖 I can't live without
-<br/>
-<div style="text-align: center">
-<a target="blank" href="https://archlinux.org/"><img src="https://img.shields.io/badge/-Arch Linux-black?style=flat-square&logo=archlinux"></a>
-<a target="blank" href="https://www.bugsnag.com/"><img src="https://img.shields.io/badge/-Bugsnag-black?style=flat-square&logo=bugsnag"></a>
-<a target="blank" href="https://getfirefox.com"><img src="https://img.shields.io/badge/-Firefox-black?style=flat-square&logo=firefox"></a>
-<a target="blank" href="https://github.com"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"></a>
-<a target="blank" href="https://www.atlassian.com/software/jira"><img src="https://img.shields.io/badge/-Jira-black?style=flat-square&logo=jira"></a>
-<a target="blank" href="https://www.ifood.com.br/"><img src="https://img.shields.io/badge/-iFood-black?style=flat-square&logo=ifood"></a>
-<a target="blank" href="https://insomnia.rest/"><img src="https://img.shields.io/badge/-Insomnia-black?style=flat-square&logo=insomnia"></a>
-<a target="blank" href="https://developers.google.com/speed/pagespeed/insights/"><img src="https://img.shields.io/badge/-PageSpeed Insights-black?style=flat-square&logo=pagespeedinsights"></a>
-<a target="blank" href="https://www.postman.com/"><img src="https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman"></a>
-<a target="blank" href="https://slack.com/"><img src="https://img.shields.io/badge/-Slack-black?style=flat-square&logo=slack"></a>
-<a target="blank" href="https://www.sublimetext.com/"><img src="https://img.shields.io/badge/-Sublime Text-black?style=flat-square&logo=sublimetext"></a>
-<a target="blank" href="https://github.com/tmux/tmux/wiki"><img src="https://img.shields.io/badge/-TMUX-black?style=flat-square&logo=tmux"></a>
-<a target="blank" href="https://www.uber.com/"><img src="https://img.shields.io/badge/-Uber-black?style=flat-square&logo=uber"></a>
-<a target="blank" href="https://www.ubereats.com/"><img src="https://img.shields.io/badge/-Uber Eats-black?style=flat-square&logo=ubereats"></a>
-<a target="blank" href="https://www.udemy.com/"><img src="https://img.shields.io/badge/-Udemy-black?style=flat-square&logo=udemy"></a>
-<a target="blank" href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/-Visual Studio Code-black?style=flat-square&logo=visualstudiocode"></a>
-<a target="blank" href="https://github.com/microsoft/terminal"><img src="https://img.shields.io/badge/-Windows Terminal-black?style=flat-square&logo=windowsterminal"></a>
-</div>
-<br />
-<br />
-
+</details>
