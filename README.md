@@ -1,6 +1,6 @@
 # Hey, I'm Paulo 👋
 
-📍 **Brazil 🇧🇷 → Spain 🇪🇸** | 💼 **Software Developer @ [Yomali](https://www.yomali.com)** | ✨ **Vibe coding since 2013**
+📍 **Brazil 🇧🇷** | 💼 **Software Developer @ [Yomali](https://www.yomali.com)** | ✨ **Vibe coding since 2013**
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -10,10 +10,11 @@
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Rust](https://img.shields.io/badge/-Rust-black?style=flat-square&logo=rust)
 
-> Full-stack developer living in Spain, originally from Brazil. Building things at Yomali and vibe coding whatever seems cool or useful.
+> Full-stack developer from Brazil. Building things at Yomali and vibe coding whatever seems cool or useful.
 
 ## Projects
 
+- 📺 **[iptv-freedom](https://github.com/paulomanrique/iptv-freedom)** — Desktop IPTV client for Xtream Codes providers: live TV, movies, series, downloads, and favorites — fast, native, and in 20 languages. Built with Electron, React, and Tailwind CSS.
 - 🗺️ **[latency-map](https://latencymap.net/)** — Desktop app for measuring network latency and traceroute to cloud provider endpoints worldwide. Built with Electron, React, and TypeScript.
 - 👀 **[lurk-buddy](https://lurkbuddy.com/)** — Automatic stream lurking for Twitch, YouTube, and Kick. Never miss a live. Never lift a finger.
 - 🛡️ **[browser-anti-copy-hijack](https://github.com/paulomanrique/browser-anti-copy-hijack)** — Userscript that protects your clipboard from websites that hijack your copied text by injecting copyright notices on Ctrl+C.
