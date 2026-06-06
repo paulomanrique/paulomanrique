@@ -20,6 +20,7 @@
 - 🎙️ **[streamer-copilot](https://github.com/paulomanrique/streamer-copilot)** — Desktop copilot for live streamers: unified chat across Twitch, YouTube, Kick, and TikTok, sound/voice commands, scheduled messages, raffles, polls, and customizable OBS overlays. Built with Electron, React, and TypeScript.
 - 🛡️ **[browser-anti-copy-hijack](https://github.com/paulomanrique/browser-anti-copy-hijack)** — Userscript that protects your clipboard from websites that hijack your copied text by injecting copyright notices on Ctrl+C.
 - 📦 **[ps4-pkg-extractor](https://github.com/paulomanrique/ps4-pkg-extractor)** — Simple command-line tool to extract PS4 PKG files. Written in Rust.
+- 📜 **[20th-century-democide](https://github.com/paulomanrique/20th-century-democide)** — Open-source preservation archive for R.J. Rummel's *powerkills* democide research corpus, with full provenance metadata and a multilingual static site. Built with Astro.
 - 🎨 **[ant-dracula-telegram-theme](https://github.com/paulomanrique/ant-dracula-telegram-theme)** — Telegram theme inspired by the Ant Dracula GTK theme by Eliver Lara.
 
 ## GitHub Activity
