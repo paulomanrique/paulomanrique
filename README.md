@@ -17,6 +17,7 @@
 - 📺 **[iptv-freedom](https://github.com/paulomanrique/iptv-freedom)** — Desktop IPTV client for Xtream Codes providers: live TV, movies, series, downloads, and favorites — fast, native, and in 20 languages. Built with Electron, React, and Tailwind CSS.
 - 🗺️ **[latency-map](https://latencymap.net/)** — Desktop app for measuring network latency and traceroute to cloud provider endpoints worldwide. Built with Electron, React, and TypeScript.
 - 👀 **[lurk-buddy](https://lurkbuddy.com/)** — Automatic stream lurking for Twitch, YouTube, and Kick. Never miss a live. Never lift a finger.
+- 🎙️ **[streamer-copilot](https://github.com/paulomanrique/streamer-copilot)** — Desktop copilot for live streamers: unified chat across Twitch, YouTube, Kick, and TikTok, sound/voice commands, scheduled messages, raffles, polls, and customizable OBS overlays. Built with Electron, React, and TypeScript.
 - 🛡️ **[browser-anti-copy-hijack](https://github.com/paulomanrique/browser-anti-copy-hijack)** — Userscript that protects your clipboard from websites that hijack your copied text by injecting copyright notices on Ctrl+C.
 - 📦 **[ps4-pkg-extractor](https://github.com/paulomanrique/ps4-pkg-extractor)** — Simple command-line tool to extract PS4 PKG files. Written in Rust.
 - 🎨 **[ant-dracula-telegram-theme](https://github.com/paulomanrique/ant-dracula-telegram-theme)** — Telegram theme inspired by the Ant Dracula GTK theme by Eliver Lara.
