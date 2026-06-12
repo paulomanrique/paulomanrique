@@ -19,6 +19,7 @@
 - 👀 **[lurk-buddy](https://lurkbuddy.com/)** — Automatic stream lurking for Twitch, YouTube, and Kick. Never miss a live. Never lift a finger.
 - 🎙️ **[streamer-copilot](https://github.com/paulomanrique/streamer-copilot)** — Desktop copilot for live streamers: unified chat across Twitch, YouTube, Kick, and TikTok, sound/voice commands, scheduled messages, raffles, polls, and customizable OBS overlays. Built with Electron, React, and TypeScript.
 - 🛡️ **[browser-anti-copy-hijack](https://github.com/paulomanrique/browser-anti-copy-hijack)** — Userscript that protects your clipboard from websites that hijack your copied text by injecting copyright notices on Ctrl+C.
+- 🎮 **[shadps4-game-manager](https://paulomanrique.github.io/shadps4-game-manager/)** — Desktop app that installs PS4 PKG files into the shadPS4 emulator and manages your library of games, updates, and DLCs. Built with Rust and egui.
 - 📦 **[ps4-pkg-extractor](https://github.com/paulomanrique/ps4-pkg-extractor)** — Simple command-line tool to extract PS4 PKG files. Written in Rust.
 - 📜 **[20th-century-democide](https://github.com/paulomanrique/20th-century-democide)** — Open-source preservation archive for R.J. Rummel's *powerkills* democide research corpus, with full provenance metadata and a multilingual static site. Built with Astro.
 - 🎨 **[ant-dracula-telegram-theme](https://github.com/paulomanrique/ant-dracula-telegram-theme)** — Telegram theme inspired by the Ant Dracula GTK theme by Eliver Lara.
