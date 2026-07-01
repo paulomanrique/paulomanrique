@@ -14,6 +14,7 @@
 
 ## Projects
 
+- 📨 **[telegram-mcp-worker](https://github.com/paulomanrique/telegram-mcp-worker)** — Cloudflare Worker exposing a Model Context Protocol (MCP) endpoint that sends Telegram notifications, so AI assistants can message you. Streamable HTTP transport, gated by a secret path, with all credentials kept as Worker secrets.
 - 🕹️ **[xevious](https://github.com/paulomanrique/xevious)** — A faithful Sega Genesis / Mega Drive port of Namco's arcade *Xevious* (1982), in 68000 assembly, built on jotd666's reverse-engineered core. [Play it on itch.io](https://sirvh.itch.io/xevious-genesis).
 - 📺 **[iptv-freedom](https://github.com/paulomanrique/iptv-freedom)** — Desktop IPTV client for Xtream Codes providers: live TV, movies, series, downloads, and favorites — fast, native, and in 20 languages. Built with Electron, React, and Tailwind CSS.
 - 🗺️ **[latency-map](https://latencymap.net/)** — Desktop app for measuring network latency and traceroute to cloud provider endpoints worldwide. Built with Electron, React, and TypeScript.
