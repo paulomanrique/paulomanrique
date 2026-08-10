@@ -14,6 +14,7 @@
 
 ## Projects
 
+- 🖼️ **[image-dup-finder](https://github.com/paulomanrique/image-dup-finder)** — Cross-platform desktop app for finding exact and visually similar images, comparing quality side by side, and safely moving unwanted copies to a recoverable internal trash. Built with .NET, Avalonia, ImageMagick, and SQLite. [Download v1.0.0](https://github.com/paulomanrique/image-dup-finder/releases/tag/v1.0.0).
 - 🕹️ **[mame-for-ai](https://github.com/paulomanrique/mame-for-ai)** — MCP server for driving MAME headlessly, focused on arcade and systems without a stronger agent-drivable route: sessions, frame stepping, registers, breakpoints, watchpoints, and CPU-visible decrypted arcade code.
 - 🔬 **[mesen-for-ai](https://github.com/paulomanrique/mesen-for-ai)** — MCP server that lets AI agents drive Mesen headlessly for SNES, NES, PC Engine, and Game Boy Advance reverse engineering: frame control, registers, memory callbacks, breakpoints, traces, and Code/Data Logger exports.
 - 🛰️ **[ares-for-ai](https://github.com/paulomanrique/ares-for-ai)** — Headless fork of the ares emulator with an MCP daemon for AI-driven Sega 32X, Mega CD / Sega CD, and 32X CD reverse engineering: frame stepping, memory, registers, trace, breakpoints, and execution-guided code/data maps.
