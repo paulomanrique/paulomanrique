@@ -14,6 +14,7 @@
 
 ## Projects
 
+- 🎬 **[neo-geo-cd-fmv](https://github.com/paulomanrique/neo-geo-cd-fmv)** — A custom full-motion video codec and bootable player built specifically for the Neo Geo CD: 320×224 at 15 fps, native 16×16 sprite tiles, graphics RAM as a persistent dictionary, continuous 1× CD streaming, and synchronized YM2610 ADPCM-A audio. Includes the 68000/Z80 source, offline encoder, measured performance data, and complete technical documentation without distributing any media or BIOS files.
 - 🎞️ **[sega-32x-fmv](https://github.com/paulomanrique/sega-32x-fmv)** — A bootable Sega CD + 32X Cinepak full-motion video player with asynchronous CD streaming across the Sub-68000, Mega Drive 68000, and both SH-2s. Includes the complete source, custom stream format, performance measurements, and build documentation without distributing any media or platform files.
 - 🖼️ **[image-dup-finder](https://github.com/paulomanrique/image-dup-finder)** — Cross-platform desktop app for finding exact and visually similar images, comparing quality side by side, and safely moving unwanted copies to a recoverable internal trash. Built with .NET, Avalonia, ImageMagick, and SQLite. [Download v1.0.0](https://github.com/paulomanrique/image-dup-finder/releases/tag/v1.0.0).
 - 🕹️ **[mame-for-ai](https://github.com/paulomanrique/mame-for-ai)** — MCP server for driving MAME headlessly, focused on arcade and systems without a stronger agent-drivable route: sessions, frame stepping, registers, breakpoints, watchpoints, and CPU-visible decrypted arcade code.
