@@ -14,6 +14,7 @@
 
 ## Projects
 
+- 🎞️ **[sega-32x-fmv](https://github.com/paulomanrique/sega-32x-fmv)** — A bootable Sega CD + 32X Cinepak full-motion video player with asynchronous CD streaming across the Sub-68000, Mega Drive 68000, and both SH-2s. Includes the complete source, custom stream format, performance measurements, and build documentation without distributing any media or platform files.
 - 🖼️ **[image-dup-finder](https://github.com/paulomanrique/image-dup-finder)** — Cross-platform desktop app for finding exact and visually similar images, comparing quality side by side, and safely moving unwanted copies to a recoverable internal trash. Built with .NET, Avalonia, ImageMagick, and SQLite. [Download v1.0.0](https://github.com/paulomanrique/image-dup-finder/releases/tag/v1.0.0).
 - 🕹️ **[mame-for-ai](https://github.com/paulomanrique/mame-for-ai)** — MCP server for driving MAME headlessly, focused on arcade and systems without a stronger agent-drivable route: sessions, frame stepping, registers, breakpoints, watchpoints, and CPU-visible decrypted arcade code.
 - 🔬 **[mesen-for-ai](https://github.com/paulomanrique/mesen-for-ai)** — MCP server that lets AI agents drive Mesen headlessly for SNES, NES, PC Engine, and Game Boy Advance reverse engineering: frame control, registers, memory callbacks, breakpoints, traces, and Code/Data Logger exports.
