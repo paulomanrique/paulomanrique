@@ -1,6 +1,6 @@
 # Hey, I'm Paulo 👋
 
-📍 **Brazil 🇧🇷** | 💼 **Software Developer @ [Yomali](https://www.yomali.com)** | ✨ **Vibe coding since 2013**
+📍 **Brazil 🇧🇷** | 💼 **Software Developer @ [Yomali](https://www.yomali.com)** | ✨ **Vibe coding since 1997**
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
