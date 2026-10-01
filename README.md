@@ -14,6 +14,7 @@
 
 ## Projects
 
+- ⚡ **[tempest-pc](https://github.com/paulomanrique/tempest-pc)** — Native Rust/SDL2 port of Atari's *Tempest* for Windows, Linux, and macOS, with vector graphics, Xbox controls, free play, and offline import of the original game data.
 - ☄️ **[missile-command-pc](https://github.com/paulomanrique/missile-command-pc)** — Native Rust port of Atari's *Missile Command* for Windows, Linux and macOS, with free play, keyboard/mouse/Xbox controls and offline asset import from user-supplied historical source. Native game logic without a source CPU interpreter or runtime ROM dependency.
 - 🛸 **[space-cadet-pinball-3do](https://github.com/paulomanrique/space-cadet-pinball-3do)** — A native, source-faithful 3DO port of *3D Pinball for Windows – Space Cadet*, reimplemented in C for the target hardware with fixed-point physics, 3DO rendering and audio, and no embedded executable or emulated source CPU. [Download it on itch.io](https://sirvh.itch.io/3d-pinball-space-cadet-3do).
 - 👾 **[hong-kong-97-sega-8bit](https://github.com/paulomanrique/hong-kong-97-sega-8bit)** — Native C/Z80 ports of *Hong Kong 97* for Game Gear and Master System, sharing one target-native gameplay core and SN76489 soundtrack with platform-specific graphics, input, color, and display adaptations. Game Gear v0.0.1 and the Master System build contain no embedded SNES ROM or 65816 interpreter. [Play the Master System version on itch.io](https://sirvh.itch.io/hong-kong-97-master-system).
